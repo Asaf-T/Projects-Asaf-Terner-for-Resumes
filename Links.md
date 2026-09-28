@@ -4,8 +4,7 @@
 
 ## Random Terrain Generator:
  - GitHub: https://github.com/Asaf-T/Random-Terrain-Generator/tree/main
-![Application Demo](demo.gif)
-<img src="demo.gif" width="50%">
+   <img src="demo.gif" width="30%">
 
 ## Gallery of Babel
  - Desmos: https://www.desmos.com/calculator/60fm8kjuhx
