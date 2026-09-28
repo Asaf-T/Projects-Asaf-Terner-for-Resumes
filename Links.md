@@ -1,6 +1,6 @@
 ## Hobbster: 
- - Web App: https://github.com/Asaf-T/Hobbster
- - GitHub: https://asaf-t.github.io/Hobbster/
+ - Web App: https://asaf-t.github.io/Hobbster/
+ - GitHub: https://github.com/Asaf-T/Hobbster
 
 ## Terrain Generator:
  - GitHub: https://github.com/Asaf-T/Random-Terrain-Generator/tree/main
