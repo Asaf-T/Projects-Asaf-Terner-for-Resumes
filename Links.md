@@ -5,7 +5,7 @@
 ## Random Terrain Generator:
  - GitHub: https://github.com/Asaf-T/Random-Terrain-Generator/tree/main
 <p align="center">
-  <img src="demo.gif" style="width: 500;">
+  <img src="demo.gif" style="width: 50;">
 </p>
 
 ## Gallery of Babel
